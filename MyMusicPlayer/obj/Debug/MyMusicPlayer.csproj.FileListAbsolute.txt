@@ -1,0 +1,14 @@
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.Cache
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+C:\Users\vupha\Desktop\C# Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
